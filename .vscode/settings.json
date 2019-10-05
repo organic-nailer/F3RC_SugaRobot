@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\korek\\.platformio\\penv\\Scripts;C:\\Users\\korek\\.platformio\\penv;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Wolfram Research\\WolframScript\\;C:\\Users\\korek\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\korek\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\korek\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\korek\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\windows\\system32;C:\\windows;C:\\windows\\System32\\Wbem;C:\\windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files (x86)\\Wolfram Research\\WolframScript\\;C:\\Users\\korek\\AppData\\Local\\Programs\\Python\\Python37\\Scripts\\;C:\\Users\\korek\\AppData\\Local\\Programs\\Python\\Python37\\;C:\\Users\\korek\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\korek\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
